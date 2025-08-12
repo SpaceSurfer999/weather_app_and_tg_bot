@@ -28,7 +28,7 @@ class PlotWindow(QWidget):
 
         # Window setup
         self.setWindowTitle("Weather chart")
-        self.resize(1000, 800)  # Set initial window size
+        self.resize(800, 600)  # Set initial window size
 
         # Create matplotlib figure and canvas
         self.figure = Figure(figsize=(12, 10), dpi=100)  # 12x10 inch figure
