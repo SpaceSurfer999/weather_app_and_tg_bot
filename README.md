@@ -1,6 +1,6 @@
 # 🌦️ Weather Analysis Suite
 
-Комплексное решение для анализа погоды: Telegram-бот + GUI приложение с поддержкой ML-прогнозирования / Comprehensive weather analysis solution: Telegram bot + GUI application with upcoming ML forecasting support
+Комплексное решение для анализа погоды: Telegram-бот + GUI приложение с поддержкой ML-прогнозирования(в процессе разработки) / Comprehensive weather analysis solution: Telegram bot + GUI application with upcoming ML forecasting support(in development)
 
 ## 📌 Features / Особенности
 
